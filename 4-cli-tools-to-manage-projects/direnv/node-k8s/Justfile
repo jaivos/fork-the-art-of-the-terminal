@@ -1,2 +1,0 @@
-start:
-  nodemon hello.js
